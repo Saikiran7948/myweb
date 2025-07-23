@@ -6,11 +6,9 @@
 	<packaging>war</packaging>
 	<version>3.10.1</version>
 	<name>Java Home myweb</name>
-	<url>http://maven.apache.org</url>
-	<configuration>
-        	<source>1.8</source>
-        	<target>1.8</target>
-        </configuration>
+	<url>http://maven.apache.org</url>	
+        <source>1.8</source>
+        <target>1.8</target>      
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
